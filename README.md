@@ -10,7 +10,7 @@ This project focuses on classifying fruit images using deep learning and compute
 * Apply deep learning techniques to image classification.
 * Understand image preprocessing, model training, and evaluation.
 * Explore practical applications of computer vision.
-
+Input Image : https://github.com/chinmayi-rayarao/Fruit-image-classification/blob/main/Input_Image.png
 ##  Technologies
 
 * **Language:** Python
@@ -42,6 +42,7 @@ Add the specific frameworks and libraries used in the notebook after verifying t
 ##  Results
 
 Refer to the notebook for the implementation and available results. Add the final validation accuracy and sample predictions here after verifying them from the notebook.
+Fruit Image Classification Results : 
 
 ##  Future Enhancements
 
